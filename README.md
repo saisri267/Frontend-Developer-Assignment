@@ -8,7 +8,7 @@ The application allows users to create multi-package shipments and view a **real
 
 # Live Demo
 
-frontend-developer-assignment-nu.vercel.app
+[frontend-developer-assignment-nu.vercel.app](https://frontend-developer-assignment-nu.vercel.app/)
 
 ---
 

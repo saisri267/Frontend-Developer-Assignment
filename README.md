@@ -24,10 +24,23 @@ A modern, production-grade logistics order creation interface built with **Next.
 
 ## Getting Started
 
-```bash
+Installation
+
+Clone the repository:
+
+git clone https://github.com/YOUR_USERNAME/logistics-dashboard.git
+
+Install dependencies:
+
 npm install
+
+Run the development server:
+
 npm run dev
-```
+
+Open in browser:
+
+http://localhost:3000
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
